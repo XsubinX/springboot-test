@@ -1,4 +1,4 @@
-package ch.koller.soas.resources;
+package com.zourceview.soas.resources;
 
 import java.util.List;
 
@@ -12,8 +12,8 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
-import ch.koller.soas.jpa.User;
-import ch.koller.soas.jpa.repository.UserRepository;
+import com.zourceview.soas.jpa.User;
+import com.zourceview.soas.jpa.repository.UserRepository;
 
 @RestController
 @RequestMapping(value = "/rest/users")

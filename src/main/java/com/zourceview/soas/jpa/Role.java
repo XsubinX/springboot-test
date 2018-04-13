@@ -1,4 +1,4 @@
-package ch.koller.soas.jpa;
+package com.zourceview.soas.jpa;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

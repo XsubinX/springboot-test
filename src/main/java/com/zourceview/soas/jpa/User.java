@@ -1,4 +1,4 @@
-package ch.koller.soas.jpa;
+package com.zourceview.soas.jpa;
 
 import java.util.HashSet;
 import java.util.Set;
